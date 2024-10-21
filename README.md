@@ -24,13 +24,13 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+<!-- [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. -->
 
 A project made with the NestJS framework, an API built with MongoDB Database, and Mongoose!
 
 by - Islam :
 
-[See API documentation here](http://localhost:3000/docs/)
+[See API documentation here](https://nestapi-production-e867.up.railway.app/docs/)
 
 ## Installation
 
