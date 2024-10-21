@@ -30,7 +30,10 @@ A project made with the NestJS framework, an API built with MongoDB Database, an
 
 by - Islam :
 
-[See API documentation here](https://nestapi-production-e867.up.railway.app/docs/)
+[See API documentation here](https://nest-api-amber-eta.vercel.app/docs/)
+
+
+[the production API here](https://nest-api-amber-eta.vercel.app/api)
 
 ## Installation
 
