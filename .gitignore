@@ -1,6 +1,6 @@
 # Security
 .env
-
+_dev
 # compiled output
 /dist
 /node_modules
